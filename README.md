@@ -1,4 +1,4 @@
-# React with AWS
+# React Native with AWS
 
 This a experimental app run with AWS mobile Hub
 
